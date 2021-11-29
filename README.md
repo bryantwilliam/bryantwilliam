@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">Mobile Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bryantwilliam&label=Profile%20views&color=0e75b6&style=flat" alt="bryantwilliam" /> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryantwilliam" alt="bryantwilliam" /></a> </p>
 
