@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">Mobile Developer (Mostly)</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
