@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+for profile generation
+https://github.com/rahuldkjain/github-profile-readme-generator
 -->
 
 <h1 align="center">Hi 👋, I'm William</h1>
