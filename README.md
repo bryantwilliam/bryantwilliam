@@ -16,7 +16,6 @@ for profile generation
 https://github.com/rahuldkjain/github-profile-readme-generator
 -->
 
-<!DOCTYPE html>
 <title>Resume</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
