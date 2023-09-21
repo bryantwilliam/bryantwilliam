@@ -24,4 +24,4 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bryantwilliam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryantwilliam&" alt="bryantwilliam" />
-<img align="center" src="https://streak-stats.demolab.com/?user=bryantwilliam&" alt="bryantwilliam" />
+
