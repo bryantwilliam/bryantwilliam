@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 for profile generation
 https://github.com/rahuldkjain/github-profile-readme-generator
+My own self-hosted vercel demo creator: https://github-readme-streak-stats-topaz-one.vercel.app/demo/
 -->
 
 <h1 align="center">Hi 👋, I'm William</h1>
@@ -23,5 +24,6 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bryantwilliam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryantwilliam&" alt="bryantwilliam" />
+[![GitHub Streak](https://github-readme-streak-stats-topaz-one.vercel.app?user=bryantwilliam&theme=vue&hide_current_streak=true)](https://git.io/streak-stats)
+
 
