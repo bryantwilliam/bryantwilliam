@@ -24,6 +24,6 @@ My own self-hosted vercel demo creator: https://github-readme-streak-stats-topaz
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bryantwilliam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats-topaz-one.vercel.app?user=bryantwilliam&theme=vue&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-topaz-one.vercel.app?user=bryantwilliam&theme=vue&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
