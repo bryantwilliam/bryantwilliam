@@ -26,4 +26,4 @@ My own self-hosted vercel demo creator: https://github-readme-streak-stats-topaz
 
 [![GitHub Streak](https://github-readme-streak-stats-topaz-one.vercel.app?user=bryantwilliam&theme=vue&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-Most of my projects are private, especially the big ones. Currently working on a large-scale browser extension + mobile app + web app.
+Most of my projects are private. Currently working on a large-scale browser extension + mobile app + web app.
